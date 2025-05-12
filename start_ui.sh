@@ -1,3 +1,3 @@
 #!/bin/sh
 
-streamlit run streamlit_ui.py
+streamlit run ./src/example_ai_repo/streamlit_ui.py
